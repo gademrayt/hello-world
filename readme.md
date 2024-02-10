@@ -8,3 +8,6 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 It now includes steps for GitHub2
+
+
+It now includes steps for GitHub3 Smoker
